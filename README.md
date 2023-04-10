@@ -1,1 +1,2 @@
-# c-
+# Yksinkertainen ristinolla peli
+# Peli ohjeistaa pelaajiansa koko ajan eteenpäin. Tarkoituksena on saada kolme omaa merkkiä peräkkäin, joko vinottain, vaaka- tai pystysuunnassa. Pelaaja A aloittaa valitsemalla numeron mihin haluaa pelikentällä itsensä sijoittaa ja sen jälkeen pelaaja B jatkaa. Tätä jatkuu vuorotellen niin kauan kunnes jompi kumpi pelaajista voittaa, tasapeli on myös mahdollinen ja peli päättyy.
